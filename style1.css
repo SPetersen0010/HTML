@@ -1,0 +1,22 @@
+<html>
+<head>
+
+/* h1 {background-image: url(BCLogo.jpeg);font-family:courier; color:green; margin-top:-10px; font-size:20pt} */
+
+ul {list-style-type:square}
+
+
+/* td {border:solid; border-width:10px} */
+
+.content {font-size:16pt; color:navy; font-family:courier}
+
+body {background-image: url('bg1.jpg'); font-family:courier; color:navy}
+
+a:link {color: #BEBEBE; text-decoration: underline; }
+a:active {color: #000080; text-decoration: underline; }
+a:visited {color: #A9A9A9; text-decoration: underline; }
+a:hover {color: #000080; text-decoration: none; }
+
+
+</head>
+</html>
